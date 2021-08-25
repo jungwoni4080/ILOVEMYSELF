@@ -2,6 +2,6 @@
 
 int main(){
     printf("I can't get no satisfaction");
-    printf("OKAY");
+    printf("N-E-V-E-R-M-I-N-D");
     return 0;
 }
