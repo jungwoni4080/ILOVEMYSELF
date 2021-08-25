@@ -1,6 +1,6 @@
 #include<stdio.h>
 
 int main(){
-    printf("%d", 123);
+    printf("I can't get no satisfaction");
     return 0;
 }
